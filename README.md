@@ -1,1 +1,2 @@
 # simon
+A fun little Simon Says based game where the computer creates a sequence of color patterns to follow and the user has to follow the sequence. The sequence is updated with every level and a new color is added. The higher the level, the more colors added, the more difficult it is for the user to remember the correct order and number of colors. Built with HTML, CSS, and JavaScript. 
